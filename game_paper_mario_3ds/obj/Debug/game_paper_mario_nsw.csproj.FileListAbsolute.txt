@@ -1,0 +1,8 @@
+C:\Users\zZz\source\Kuriimu\bin\Debug\plugins\game_pm_nsw.dll
+C:\Users\zZz\source\Kuriimu\bin\Debug\plugins\game_pm_nsw.pdb
+C:\Users\zZz\source\repos\game_paper_mario_nsw\obj\Debug\game_paper_mario_nsw.csproj.AssemblyReference.cache
+C:\Users\zZz\source\repos\game_paper_mario_nsw\obj\Debug\game_pm_nsw.Properties.Resources.resources
+C:\Users\zZz\source\repos\game_paper_mario_nsw\obj\Debug\game_paper_mario_nsw.csproj.GenerateResource.cache
+C:\Users\zZz\source\repos\game_paper_mario_nsw\obj\Debug\game_paper_mario_nsw.csproj.CoreCompileInputs.cache
+C:\Users\zZz\source\repos\game_paper_mario_nsw\obj\Debug\game_pm_nsw.dll
+C:\Users\zZz\source\repos\game_paper_mario_nsw\obj\Debug\game_pm_nsw.pdb
