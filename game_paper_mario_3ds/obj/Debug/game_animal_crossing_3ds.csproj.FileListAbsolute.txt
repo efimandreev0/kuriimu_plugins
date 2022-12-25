@@ -1,8 +1,0 @@
-C:\Users\zZz\source\repos\game_animal_crossing_3ds\obj\Debug\game_animal_crossing_3ds.csproj.AssemblyReference.cache
-C:\Users\zZz\source\repos\game_animal_crossing_3ds\obj\Debug\game_animal_crossing_3ds.csproj.CoreCompileInputs.cache
-C:\Users\zZz\source\repos\game_animal_crossing_3ds\obj\Debug\game_animal_crossing_3ds.csproj.GenerateResource.cache
-C:\Users\zZz\source\repos\game_animal_crossing_3ds\obj\Debug\game_acnl_3ds.Properties.Resources.resources
-C:\Users\zZz\source\Kuriimu\bin\Debug\plugins\game_acnl_3ds.dll
-C:\Users\zZz\source\Kuriimu\bin\Debug\plugins\game_acnl_3ds.pdb
-C:\Users\zZz\source\repos\game_animal_crossing_3ds\obj\Debug\game_acnl_3ds.dll
-C:\Users\zZz\source\repos\game_animal_crossing_3ds\obj\Debug\game_acnl_3ds.pdb

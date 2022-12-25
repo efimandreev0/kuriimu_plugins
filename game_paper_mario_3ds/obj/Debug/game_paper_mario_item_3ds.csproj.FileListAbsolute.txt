@@ -1,8 +1,0 @@
-C:\Users\zZz\source\Kuriimu\bin\Debug\plugins\game_pm_itm3ds.dll
-C:\Users\zZz\source\Kuriimu\bin\Debug\plugins\game_pm_itm3ds.pdb
-C:\Users\zZz\source\repos\game_paper_mario_3ds\obj\Debug\game_paper_mario_item_3ds.csproj.AssemblyReference.cache
-C:\Users\zZz\source\repos\game_paper_mario_3ds\obj\Debug\game_pm_itm3ds.Properties.Resources.resources
-C:\Users\zZz\source\repos\game_paper_mario_3ds\obj\Debug\game_paper_mario_item_3ds.csproj.GenerateResource.cache
-C:\Users\zZz\source\repos\game_paper_mario_3ds\obj\Debug\game_paper_mario_item_3ds.csproj.CoreCompileInputs.cache
-C:\Users\zZz\source\repos\game_paper_mario_3ds\obj\Debug\game_pm_itm3ds.dll
-C:\Users\zZz\source\repos\game_paper_mario_3ds\obj\Debug\game_pm_itm3ds.pdb
